@@ -1,5 +1,6 @@
 ### Oiii! Eu sou o João Paulo 👨🏽‍💻📚
-
+- 🏃‍ Sempre em busca de um amanhã onde eu seja melhor que hoje!
+- 
 <div>
   <a href="https://github.com/jpoliveiradev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jpoliveiradev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
