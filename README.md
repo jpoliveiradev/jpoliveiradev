@@ -10,7 +10,7 @@
   <img align="center" alt="Jp-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Jp-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Jp-VSCODE" height="30" width="40" src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"">
+  <img align="center" alt="Jp-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Jp-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Jp-VueJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Jp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
